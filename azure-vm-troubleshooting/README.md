@@ -21,4 +21,4 @@ This project demonstrates troubleshooting of a Virtual Machine that failed to st
 
 ## Outcome
 - VM successfully restored  
-- Stable and operational system  
+- Stable and operational system
